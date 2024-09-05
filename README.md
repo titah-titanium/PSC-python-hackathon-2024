@@ -7,3 +7,6 @@ Get as many points as you can
 # Control
 Left arrow to move left and right arrow to move right. Space for shooting bullet
 
+# How To Play?
+First, copy the main.py code and paste it in visual studio code. Then, add those assets (backgrounds etc) into a file. Then we use pip install pygame in terminal. Then run the game.
+
